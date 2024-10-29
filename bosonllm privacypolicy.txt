@@ -1,0 +1,47 @@
+Privacy Policy
+Effective Date: October 29 , 2024
+
+1. Introduction
+Welcome to bosonLM, a hydroponics knowledge-based chatbot application. We are committed to protecting your privacy and ensuring that your personal information is handled in a safe and responsible manner. This Privacy Policy outlines the types of personal information we collect, how we use it, and the steps we take to safeguard it.
+
+2. Information We Collect
+2.1 Information You Provide
+
+Email Address: When you create an account using Google Firebase email-password authentication, we collect your email address. This allows us to authenticate your identity and communicate with you about our services and updates.
+2.2 Information Collected Automatically
+
+Query Logs: Our chatbot may log questions you ask to improve our responses and enhance the knowledge base for hydroponics.
+Device Information: We collect information about the device you use to access our app, which helps us optimize the app’s functionality for different devices.
+2.3 Information from Third-Party Services
+
+Firebase Authentication: We use Google Firebase to manage user authentication and ensure secure access to the app.
+3. How We Use Your Information
+We may use your information for the following purposes:
+
+To Provide and Improve Our Services: We use your email address to authenticate your account and access your query logs to enhance the chatbot’s hydroponics knowledge base.
+To Communicate with You: We may use your email address to send you updates about new features, products, or other relevant information from our company.
+4. Sharing Your Information
+We do not share your personal information with third parties, except in the following circumstances:
+
+With Your Consent: We may share information with your consent or at your direction.
+With Service Providers: We may share information with third-party service providers who perform services on our behalf, such as Firebase for authentication.
+For Legal Reasons: We may share information if required by law or to protect the rights, property, or safety of our users or others.
+5. Data Security
+We take reasonable measures to protect your information from unauthorized access, use, or disclosure. However, no internet or email transmission is fully secure or error-free, so please take special care in deciding what information you send to us.
+
+6. Your Choices and Rights
+
+Access and Update Information: You can access and update your personal information within the app.
+Delete Account: You may delete your account at any time. Upon deletion, we will remove your personal information from our systems.
+Opt-Out of Communications: You can opt out of receiving promotional communications from us by following the unsubscribe instructions provided in the communication.
+7. Children's Privacy
+Our app is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that we have collected personal information from a child under 13, we will take steps to delete that information.
+
+8. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Effective Date" above.
+
+9. Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+
+Email: infosxba@gmail.com
+Address: 2nd Floor, Administrative Block, Govt Polytechnic College, Koottupaatha, Palakkad, Kerala 678551
