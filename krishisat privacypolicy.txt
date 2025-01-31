@@ -1,1 +1,58 @@
+Privacy Policy
+KrishiSat
+Effective Date: August 18, 2024
 
+1. Introduction
+Welcome to KrishiSat. We value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and protect user data while using our app.
+
+By using KrishiSat, you agree to the terms outlined in this policy. If you do not agree, please discontinue using the app.
+
+2. Information We Collect
+Currently, KrishiSat does not collect any personal data from users. However, if we decide to collect any information in the future, we will update this Privacy Policy and notify users accordingly.
+
+Potential Future Data Collection:
+If data collection is introduced in future updates, we may collect:
+
+Personal Information (e.g., name, email, location)
+Device Information (e.g., model, operating system)
+Usage Data (e.g., app interactions, preferences)
+
+3. How We Use Your Information
+Since we do not collect any personal information at this time, there is no data usage. However, if we collect data in the future, it will be used solely to:
+
+Improve app functionality and user experience
+Provide personalized features
+Respond to user inquiries and support requests
+
+4. Sharing of Information
+We do not share user information with third parties. If we introduce data collection features in the future, we will ensure full transparency and notify users about any sharing practices.
+
+5. Data Security
+Even though we do not currently collect data, we take security seriously. If data collection begins in the future, we will implement appropriate security measures, including:
+
+Encryption of sensitive information
+Secure storage of collected data
+Restricted access to user information
+
+6. User Rights and Choices
+As we do not collect personal data, users do not need to request access, modification, or deletion of information. If data collection begins, we will provide users with the ability to:
+
+Access their personal information
+Request modifications or deletions
+Opt-out of data collection
+
+7. Children's Privacy
+KrishiSat is designed for farmers and is not intended for children under 13 years of age. We do not knowingly collect data from children. If we discover that a child has provided personal information, we will take steps to remove it.
+
+8. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. If there are significant changes, we will notify users by:
+
+Posting an updated Privacy Policy in the app
+Sending notifications if applicable
+It is the user's responsibility to review this policy periodically.
+
+9. Contact Us
+If you have any questions or concerns regarding this Privacy Policy, you can contact us at:
+
+📧 Email: infosxba@gmail.com
+📍 Address: 2nd Floor, Administrative Block, Govt Polytechnic College, Koottupaatha, Palakkad, Kerala 678551
